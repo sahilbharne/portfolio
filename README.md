@@ -13,6 +13,7 @@ A modern, responsive portfolio website built with React, Tailwind CSS, and Frame
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, Tailwind CSS, Framer Motion
+- **Deployment**: Vercel - https://portfolio-nine-neon-a24c93lo3w.vercel.app/
 - **Contact**: EmailJS
 
 ## 📦 Installation
