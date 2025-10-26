@@ -44,7 +44,7 @@ const Navbar = () => {
               isScrolled ? "text-gray-900" : "text-white"
             }`}
           >
-            SAHIL BHARNE
+            SAHIL
           </a>
 
           {/* Desktop Navigation links */}
